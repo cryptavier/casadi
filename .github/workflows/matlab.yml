@@ -1,4 +1,4 @@
-name: binaries
+name: matlab
 
 on: workflow_dispatch
 
